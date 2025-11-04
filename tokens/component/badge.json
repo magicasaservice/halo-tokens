@@ -386,19 +386,19 @@
         },
         "symbol": {
           "xs": {
-            "$value": "{app.dimension.component.spacing.2}",
+            "$value": "{app.dimension.component.spacing.2_25}",
             "$type": "dimension"
           },
           "sm": {
-            "$value": "{app.dimension.component.spacing.2_5}",
-            "$type": "dimension"
-          },
-          "md": {
             "$value": "{app.dimension.component.spacing.3}",
             "$type": "dimension"
           },
+          "md": {
+            "$value": "{app.dimension.component.spacing.3_75}",
+            "$type": "dimension"
+          },
           "lg": {
-            "$value": "{app.dimension.component.spacing.3_5}",
+            "$value": "{app.dimension.component.spacing.4_5}",
             "$type": "dimension"
           }
         }
