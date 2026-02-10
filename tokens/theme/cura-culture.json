@@ -1,0 +1,40 @@
+{
+  "app": {
+    "fontFamily": {
+      "surface": {
+        "display": {
+          "$value": "ITC Garamond",
+          "$type": "fontFamilies"
+        },
+        "title": {
+          "$value": "ITC Garamond",
+          "$type": "fontFamilies"
+        },
+        "callout": {
+          "$value": "ITC Garamond",
+          "$type": "fontFamilies"
+        },
+        "subtitle": {
+          "$value": "ITC Garamond",
+          "$type": "fontFamilies"
+        },
+        "body": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "caption": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "footnote": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "code": {
+          "$value": "Index",
+          "$type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

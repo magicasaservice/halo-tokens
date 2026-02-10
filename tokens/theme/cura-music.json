@@ -1,0 +1,40 @@
+{
+  "app": {
+    "fontFamily": {
+      "surface": {
+        "display": {
+          "$value": "VCR OSD Mono",
+          "$type": "fontFamilies"
+        },
+        "title": {
+          "$value": "VCR OSD Mono",
+          "$type": "fontFamilies"
+        },
+        "callout": {
+          "$value": "VCR OSD Mono",
+          "$type": "fontFamilies"
+        },
+        "subtitle": {
+          "$value": "VCR OSD Mono",
+          "$type": "fontFamilies"
+        },
+        "body": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "caption": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "footnote": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "code": {
+          "$value": "Index",
+          "$type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

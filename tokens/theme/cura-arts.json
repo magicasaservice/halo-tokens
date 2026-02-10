@@ -1,0 +1,40 @@
+{
+  "app": {
+    "fontFamily": {
+      "surface": {
+        "display": {
+          "$value": "Circle",
+          "$type": "fontFamilies"
+        },
+        "title": {
+          "$value": "Circle",
+          "$type": "fontFamilies"
+        },
+        "callout": {
+          "$value": "Circle",
+          "$type": "fontFamilies"
+        },
+        "subtitle": {
+          "$value": "Circle",
+          "$type": "fontFamilies"
+        },
+        "body": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "caption": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "footnote": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "code": {
+          "$value": "Index",
+          "$type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

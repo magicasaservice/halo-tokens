@@ -1,0 +1,40 @@
+{
+  "app": {
+    "fontFamily": {
+      "surface": {
+        "display": {
+          "$value": "Brick",
+          "$type": "fontFamilies"
+        },
+        "title": {
+          "$value": "Brick",
+          "$type": "fontFamilies"
+        },
+        "callout": {
+          "$value": "Brick",
+          "$type": "fontFamilies"
+        },
+        "subtitle": {
+          "$value": "Brick",
+          "$type": "fontFamilies"
+        },
+        "body": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "caption": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "footnote": {
+          "$value": "Georgia",
+          "$type": "fontFamilies"
+        },
+        "code": {
+          "$value": "Index",
+          "$type": "fontFamilies"
+        }
+      }
+    }
+  }
+}
