@@ -79,6 +79,18 @@
           }
         }
       }
+    },
+    "component": {
+      "primary": {
+        "border": {
+          "translucent": {
+            "default": {
+              "$type": "color",
+              "$value": "oklch(0.2504 0.0631 53.6 / 16%)"
+            }
+          }
+        }
+      }
     }
   }
 }
