@@ -85,7 +85,7 @@
             "translucent": {
               "default": {
                 "$type": "color",
-                "$value": "oklch(0 0 0 / 8%)"
+                "$value": "oklch(1 0 0 / 8%)"
               }
             }
           }
