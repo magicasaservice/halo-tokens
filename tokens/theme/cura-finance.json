@@ -35,6 +35,20 @@
           "$type": "fontFamilies"
         }
       }
+    },
+    "fontSize": {
+      "surface": {
+        "body": {
+          "sm": {
+            "$value": "1rem",
+            "$type": "fontSizes"
+          },
+          "md": {
+            "$value": "1.09375rem",
+            "$type": "fontSizes"
+          }
+        }
+      }
     }
   }
 }
