@@ -49,6 +49,20 @@
           }
         }
       }
+    },
+    "letterSpacing": {
+      "surface": {
+        "body": {
+          "sm": {
+            "$value": "0.088px",
+            "$type": "letterSpacing"
+          },
+          "md": {
+            "$value": "0.088px;",
+            "$type": "letterSpacing"
+          }
+        }
+      }
     }
   }
 }
