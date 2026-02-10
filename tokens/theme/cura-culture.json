@@ -68,7 +68,7 @@
       "surface": {
         "bg": {
           "base": {
-            "$value": "{config.color.palette.white.solid}",
+            "$value": "oklch(0.9354 0.1872 125.46)",
             "$type": "color"
           }
         },

@@ -68,13 +68,13 @@
       "surface": {
         "bg": {
           "base": {
-            "$value": "oklch(0.1543 0 0)",
+            "$value": "{config.color.palette.white.solid}",
             "$type": "color"
           }
         },
         "fg": {
           "default": {
-            "$value": "oklch(0.6234 0 0)",
+            "$value": "{config.color.palette.black.solid}",
             "$type": "color"
           }
         }
