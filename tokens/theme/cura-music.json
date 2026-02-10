@@ -63,6 +63,22 @@
           }
         }
       }
+    },
+    "color": {
+      "surface": {
+        "bg": {
+          "base": {
+            "$value": "oklch(0.9354 0.1872 125.46)",
+            "$type": "color"
+          }
+        },
+        "fg": {
+          "default": {
+            "$value": "{config.color.palette.black.solid}",
+            "$type": "color"
+          }
+        }
+      }
     }
   }
 }
