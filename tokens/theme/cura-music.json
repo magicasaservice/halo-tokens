@@ -64,6 +64,14 @@
         }
       }
     },
+    "textCase": {
+      "surface": {
+        "display": {
+          "$value": "uppercase",
+          "$type": "textCase"
+        }
+      }
+    },
     "color": {
       "surface": {
         "bg": {
