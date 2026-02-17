@@ -44,11 +44,11 @@
             "$type": "fontSizes"
           },
           "md": {
-            "$value": "3.375rem",
+            "$value": "4rem",
             "$type": "fontSizes"
           },
           "lg": {
-            "$value": "4.5rem",
+            "$value": "4.75rem",
             "$type": "fontSizes"
           },
           "xl": {
@@ -119,6 +119,14 @@
             "$value": "1.09375rem",
             "$type": "fontSizes"
           }
+        }
+      }
+    },
+    "fontWeight": {
+      "surface": {
+        "display": {
+          "$value": "700",
+          "$type": "fontWeights"
         }
       }
     },
