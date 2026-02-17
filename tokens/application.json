@@ -2045,12 +2045,16 @@
             "$type": "dimension"
           },
           "compact": {
+            "xs": {
+              "$value": "{config.dimension.radius.base} * 0.5",
+              "$type": "dimension"
+            },
             "sm": {
-              "$value": "{config.dimension.radius.base} * 1.5",
+              "$value": "{config.dimension.radius.base} * 1",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{config.dimension.radius.base} * 1.75",
+              "$value": "{config.dimension.radius.base} * 1.5",
               "$type": "dimension"
             },
             "lg": {
@@ -2058,44 +2062,44 @@
               "$type": "dimension"
             },
             "xl": {
-              "$value": "{config.dimension.radius.base} * 2.25",
+              "$value": "{config.dimension.radius.base} * 2.5",
               "$type": "dimension"
             }
           },
           "default": {
             "2xs": {
-              "$value": "{config.dimension.radius.base} * 2",
-              "$type": "dimension"
-            },
-            "xs": {
-              "$value": "{config.dimension.radius.base} * 2.5",
-              "$type": "dimension"
-            },
-            "sm": {
               "$value": "{config.dimension.radius.base} * 3",
               "$type": "dimension"
             },
-            "md": {
+            "xs": {
               "$value": "{config.dimension.radius.base} * 3.5",
               "$type": "dimension"
             },
-            "lg": {
+            "sm": {
               "$value": "{config.dimension.radius.base} * 4",
               "$type": "dimension"
             },
-            "xl": {
+            "md": {
               "$value": "{config.dimension.radius.base} * 4.5",
               "$type": "dimension"
             },
-            "2xl": {
+            "lg": {
               "$value": "{config.dimension.radius.base} * 5",
+              "$type": "dimension"
+            },
+            "xl": {
+              "$value": "{config.dimension.radius.base} * 5.5",
+              "$type": "dimension"
+            },
+            "2xl": {
+              "$value": "{config.dimension.radius.base} * 6",
               "$type": "dimension"
             }
           }
         },
         "border": {
           "default": {
-            "$value": "2px",
+            "$value": "1px",
             "$type": "dimension"
           },
           "thin": {
