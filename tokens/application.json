@@ -1264,7 +1264,7 @@
     "fontFamily": {
       "component": {
         "text": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "symbol": {
@@ -1278,31 +1278,31 @@
       },
       "surface": {
         "display": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "title": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "callout": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "subtitle": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "body": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "caption": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "footnote": {
-          "$value": "Mirage",
+          "$value": "Halo Sans",
           "$type": "fontFamilies"
         },
         "code": {
