@@ -2094,10 +2094,6 @@
             "2xl": {
               "$value": "{config.dimension.radius.base} * 6",
               "$type": "dimension"
-            },
-            "3xl": {
-              "$value": "{config.dimension.radius.base} * 6.5",
-              "$type": "dimension"
             }
           }
         },
