@@ -9,53 +9,53 @@
           },
           "compact": {
             "xs": {
-              "$value": "{config.dimension.radius.base} * 1.5",
+              "$value": "{config.dimension.radius.base} * 1.5625",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{config.dimension.radius.base} * 2",
+              "$value": "{config.dimension.radius.base} * 2.0625",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{config.dimension.radius.base} * 2.5",
+              "$value": "{config.dimension.radius.base} * 2.5625",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{config.dimension.radius.base} * 3",
+              "$value": "{config.dimension.radius.base} * 3.0625",
               "$type": "dimension"
             },
             "xl": {
-              "$value": "{config.dimension.radius.base} * 3.5",
+              "$value": "{config.dimension.radius.base} * 3.5625",
               "$type": "dimension"
             }
           },
           "default": {
             "2xs": {
-              "$value": "{config.dimension.radius.base} * 4",
+              "$value": "{config.dimension.radius.base} * 4.0625",
               "$type": "dimension"
             },
             "xs": {
-              "$value": "{config.dimension.radius.base} * 4.5",
+              "$value": "{config.dimension.radius.base} * 4.5625",
               "$type": "dimension"
             },
             "sm": {
-              "$value": "{config.dimension.radius.base} * 5",
+              "$value": "{config.dimension.radius.base} * 5.0625",
               "$type": "dimension"
             },
             "md": {
-              "$value": "{config.dimension.radius.base} * 5.5",
+              "$value": "{config.dimension.radius.base} * 5.5625",
               "$type": "dimension"
             },
             "lg": {
-              "$value": "{config.dimension.radius.base} * 6",
+              "$value": "{config.dimension.radius.base} * 6.0625",
               "$type": "dimension"
             },
             "xl": {
-              "$value": "{config.dimension.radius.base} * 6.5",
+              "$value": "{config.dimension.radius.base} * 6.5625",
               "$type": "dimension"
             },
             "2xl": {
-              "$value": "{config.dimension.radius.base} * 7",
+              "$value": "{config.dimension.radius.base} * 7.0625",
               "$type": "dimension"
             }
           }
