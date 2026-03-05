@@ -320,19 +320,19 @@
         },
         "radius": {
           "xs": {
-            "$value": "{app.dimension.component.radius.compact.xs}",
+            "$value": "{app.dimension.component.radius.compact.md}",
             "$type": "dimension"
           },
           "sm": {
-            "$value": "{app.dimension.component.radius.compact.xs}",
+            "$value": "{app.dimension.component.radius.compact.md}",
             "$type": "dimension"
           },
           "md": {
-            "$value": "{app.dimension.component.radius.compact.xs}",
+            "$value": "{app.dimension.component.radius.compact.md}",
             "$type": "dimension"
           },
           "lg": {
-            "$value": "{app.dimension.component.radius.compact.xs}",
+            "$value": "{app.dimension.component.radius.compact.md}",
             "$type": "dimension"
           }
         },
